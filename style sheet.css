@@ -1,0 +1,90 @@
+html,body {
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
+html {
+  	font-family: Arial Narrow,Arial,sans-serif;
+    color: white;
+}
+a:link {
+  color:white; background-color:transparent; text-decoration:none;
+}
+a:visited {
+  color:white; background-color:transparent; text-decoration:none;
+}
+a:hover {
+  color:white; background-color:transparent; text-decoration:none;
+}
+a:active {
+  color:white; background-color:transparent; text-decoration:none;
+}
+body {
+    background-color: #6699ff;
+    padding-top: 20px;
+    padding-right: 3%;
+    padding-bottom: 20px;
+    padding-left: 3%;
+}
+#column1 {
+  float: left; margin:0; width: 4%;
+}
+#logo {
+  height: 45px;
+  width: 45px;
+}
+#column2 {
+  float: left; margin:0; width: 91%;
+}
+header {
+  font-weight: 550;
+}
+#navbar {
+  float: right;
+}
+#about {
+  text-decoration: underline;
+}
+#portfolio {
+  text-decoration: underline;
+}
+#contact{
+  text-decoration: underline;
+}
+#page-intro {
+  margin-left: 47.5%;
+  transform:
+    translateX(-50%);
+  text-align: center;
+}
+#portfolio-column1 {
+  float: left; margin:0; width: 47.5%;
+}
+#portfolio-column2 {
+  float: left; margin:0; width: 47.5%;
+}
+#mindcrack-thumbnail {
+  margin-left: 50%;
+  transform:
+    translateX(-50%);
+}
+#contact-link {
+  text-decoration: underline;
+}
+#about-pic-column {
+  float: left; margin:0; width: 15%;
+}
+#my-pic {
+  height: 250px;
+  border: 5px white solid;
+
+}
+#about-text-column {
+  float: left; margin-left:0; width: 75%;
+}
+#about-text {
+  text-align: left;
+}
+h4 {
+  text-align: center;
+}
