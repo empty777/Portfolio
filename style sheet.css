@@ -76,7 +76,7 @@ header {
   float: left; margin:0; width: 15%;
 }
 #my-pic {
-  height: 250px;
+  width: 90%;
   border: 5px white solid;
 
 }
