@@ -30,8 +30,8 @@ body {
   float: left; margin:0; width: 4%;
 }
 #logo {
-  height: 45px;
-  width: 45px;
+  height: 90%;
+  width: 90%;
 }
 #column2 {
   float: left; margin:0; width: 91%;
@@ -67,6 +67,7 @@ header {
   margin-left: 50%;
   transform:
     translateX(-50%);
+  width: 80%;
 }
 #contact-link {
   text-decoration: underline;
